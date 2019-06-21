@@ -6,3 +6,4 @@ For example, say a payment term Net 30, would mean invoice is due , 30 days afte
 2/10 net 30, would mean payment is due in 30 days, But if paid within 10 days, 2% discount can be availed.
 
 Similarly we can offer payment terms to our customers also. 
+
